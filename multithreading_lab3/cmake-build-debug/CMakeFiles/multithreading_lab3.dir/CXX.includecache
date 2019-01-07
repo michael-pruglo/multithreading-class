@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mickl/ClionProjects/multithreading_lab3/main.cpp
+iostream
+-
+vector
+-
+mingw.thread.h
+C:/Users/mickl/ClionProjects/multithreading_lab3/mingw.thread.h
+atomic
+-
+
+C:/Users/mickl/ClionProjects/multithreading_lab3/mingw.thread.h
+windows.h
+-
+functional
+-
+memory
+-
+chrono
+-
+system_error
+-
+cerrno
+-
+process.h
+-
+
